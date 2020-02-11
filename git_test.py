@@ -1,3 +1,4 @@
 # -*- coding: shift_jis -*-
 print("Hello World!")
-print("git add でステージングエリアに追加します")
+print("git add でステージングエリアに追加")
+print("git commit でローカルリポジトリにコミット")
