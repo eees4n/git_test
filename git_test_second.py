@@ -1,2 +1,0 @@
-# -*- coding: shift_jis -*-
-print("2‚Â–Ú‚Ìƒtƒ@ƒCƒ‹")
